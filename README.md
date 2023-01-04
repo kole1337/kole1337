@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-I'm a First Year Computer Science student at the University of Southampton. Working part-time as a barista at Starbucks. Interested in the Renesance.
+I'm a First Year Computer Science student at the University of Southampton. Working part-time as a barista at Starbucks. Interested in the history and cooking.
 <!--    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
