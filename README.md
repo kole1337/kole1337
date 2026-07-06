@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Nikola (or Nik, or Nick, or Nicholas) and I'm a Final Year Software Engineering student, from Southampton.</p>
+<p align="left">My name is Nikola and I'm persuing a degree of MSc Cyber Security. I graduated with a 2:1 BEng Software Engineering from the University of Southampton. </p>
 
 ###
 
