@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">✨ Currently looking for grad/internships in tech consulting/software development/website development<br>📚 I'm currently learning: <br>- "Vietnam - Anatomy of War 1940-1975" by Gabriel Kolko<br>- "Lord of the Rings" by J.R.R. Martin<br>- "The Four Agreements" by Don Miguel Ruiz<br>🎯 Goals: to retire in a cabin in the woods</p>
+<p align="left">✨ Currently building software at OCG<br>📚 I'm currently reading: <br>- "Vietnam - Anatomy of War 1940-1975" by Gabriel Kolko<br>- "Lord of the Rings" by J.R.R. Tolkin<br>- "The Four Agreements" by Don Miguel Ruiz<br>🎯 Goals: to retire in a cabin in the woods</p>
 
 ###
 
